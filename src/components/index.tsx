@@ -6,3 +6,5 @@ export { default as Header } from './layout/Header';
 export { default as LoginLayout } from './layout/LoginLayout';
 export { default as Button } from './Button';
 export { default as Banner } from './banner/Banner';
+export { default as TitleSection } from './TitleSection';
+export { default as DuplicateImg } from './DuplicateImg';
