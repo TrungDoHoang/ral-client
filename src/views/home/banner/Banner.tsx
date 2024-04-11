@@ -1,7 +1,7 @@
 import banner from '@/assets/Images/banner/banner.jpg';
 import { Image } from '@mantine/core';
 import { Minus, PlusCircle } from 'react-feather';
-import { Button } from '..';
+import { Button } from '../../../components';
 
 const Banner = () => {
 	return (
@@ -21,7 +21,7 @@ const Banner = () => {
 					hợp lệ nhé. <span className='text-[#fe6380]'>Xem chi tiết</span>
 				</p>
 			</div>
-			<div className='max-w-[486px]'>
+			<div className=''>
 				<div className='px-[20px] border border-solid border-borderColor rounded'>
 					<div className='flex py-6 justify-between'>
 						<div>

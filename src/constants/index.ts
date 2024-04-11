@@ -3,7 +3,6 @@ export const PATH = {
 	ROOT: '/',
 	LOGIN: '/login',
 	REGISTER: '/register',
-	CONTACT: '/contact',
 	CART: '/giohang',
 	SOLUTION: '/giaiphap',
 	CATEGORY: '/category',

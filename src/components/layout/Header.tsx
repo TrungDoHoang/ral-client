@@ -12,19 +12,19 @@ const Header = () => {
 			name: 'Tổng quan',
 		},
 		{
-			path: PATH.CONTACT,
+			path: PATH.SOLUTION,
 			name: 'Giải pháp',
 		},
 		{
-			path: PATH.CONTACT,
+			path: PATH.CATEGORY,
 			name: 'Sản phẩm',
 		},
 		{
-			path: PATH.CONTACT,
+			path: PATH.ROOT,
 			name: 'Tài nguyên',
 		},
 		{
-			path: PATH.CONTACT,
+			path: PATH.SITEMAP,
 			name: 'Site map',
 		},
 	];
